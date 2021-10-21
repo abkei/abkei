@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @abkei
+- 👀 I’m interested in different cultures
+- 🌱 I’m currently learning Vue and Svelte
